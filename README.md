@@ -11,30 +11,30 @@ Generates an HTML file that displays the team roster with links to email address
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-##Prerequisites
+## Prerequisites
 What you need to run the application:
 Node.js
-##Installing
+## Installing
 A step by step series of examples that tell you how to get the application running:
 
 Clone the repository git clone [ssh key from repo]
 Install the dependencies npm install
 Run the application node index.js
-##Built With
+## Built With
 JavaScript
 CSS
 HTML
 Node.js
 Inquirer
-##Author
+## Author
 Ryan Hood - https://github.com/ryanhood10
 
-##License
+## License
 
-##Acknowledgments
+## Acknowledgments
 The inspiration for this project was for managers to create an information page about their employees and access that data.
 
-#Screenshots
+# Screenshots
 
 
 

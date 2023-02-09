@@ -2,7 +2,7 @@
 
 A command-line application that generates an HTML file that displays a nicely formatted team roster based on user input.
 
-##Features
+## Features
 Prompts the user for the team manager's name, employee ID, email address, and office number
 Provides a menu to add an engineer or an intern, or to finish building the team
 Prompts the user for engineer's name, ID, email, and GitHub username
